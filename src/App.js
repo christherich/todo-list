@@ -9,7 +9,7 @@ function App() {
   return (
     <div className="app">
       <h1>
-        minimal to-do list <i class="gg-list"></i>{""}
+        <i class="gg-list"></i> minimal to-do list {""}
       </h1>
       <TodoList />
     </div>
